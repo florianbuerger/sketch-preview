@@ -2,7 +2,7 @@
 
 This [Sketch](http://bohemiancoding.com/sketch) plugin provides a preview
 command (⌘P) that will export the currently selected Artboard at a configurable
-preview size (⌘⌥P) and open the resulting image file in [xScope](http://xscopeapp.com) which can be used with their companion iOS *and watch* app [xScope Mirror](https://itunes.apple.com/de/app/xscope-mirror/id488819289?l=en&mt=8) to view your design on real hardware.
+preview size (⌘⌥P) and open the resulting image file in [xScope](http://xscopeapp.com) which can be used with their companion iOS **and ᴡᴀᴛᴄʜ** app [xScope Mirror](https://itunes.apple.com/de/app/xscope-mirror/id488819289?l=en&mt=8) to view your design on real hardware.
 
 # Installation
 

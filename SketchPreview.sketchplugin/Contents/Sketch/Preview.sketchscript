@@ -23,7 +23,7 @@
 
 // configuration
 
-var PREVIEW_APPLICATION = "Skala Preview"
+var PREVIEW_APPLICATION = "xScope"
 var PREVIEW_TARGET_NAME = "Preview"
 
 var PREVIEW_DIRECTORY_NAME = "com.marcisme.sketch-preview"

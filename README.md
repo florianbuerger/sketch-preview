@@ -2,8 +2,7 @@
 
 This [Sketch](http://bohemiancoding.com/sketch) plugin provides a preview
 command (⌘P) that will export the currently selected Artboard at a configurable
-preview size (⌘⌥P) and open the resulting image file in [Skala
-Preview](http://bjango.com/mac/skalapreview).
+preview size (⌘⌥P) and open the resulting image file in [xScope](http://xscopeapp.com) which can be used with their companion iOS *and watch* app [xScope Mirror](https://itunes.apple.com/de/app/xscope-mirror/id488819289?l=en&mt=8) to view your design on real hardware.
 
 # Installation
 
@@ -12,7 +11,7 @@ files from the plugin directory if upgrading from a previous version. You can
 open the plugin directory in the Finder with the `Plugins -> Reveal Plugins
 Folder...` menu item.*
 
-[Download](https://github.com/marcisme/sketch-preview/archive/master.zip) or
+[Download](https://github.com/florianbuerger/sketch-preview/archive/master.zip) or
 clone the latest version of this project, and open the
 `SketchPreview.sketchplugin` file.
 
